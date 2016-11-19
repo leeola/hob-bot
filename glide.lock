@@ -1,0 +1,33 @@
+hash: 3a51a8290cabfcd67717900b86c665c6c081363759c1a100b0ba45c3bf4dad4e
+updated: 2016-11-17T17:24:13.589579683-08:00
+imports:
+- name: github.com/BurntSushi/toml
+  version: 99064174e013895bbd9b025c31100bd1d9b590ca
+- name: github.com/go-telegram-bot-api/telegram-bot-api
+  version: a7f48eb2dd301356942677e65bebe0c9aef07013
+- name: github.com/inconshreveable/log15
+  version: b105bd37f74e5d9dc7b6ad7806715c7a2b83fd3f
+- name: github.com/leeola/errors
+  version: f4fedb887fbe4325c0e3cf69769ec5aabf3e1c33
+- name: github.com/leeola/hob
+  version: ddd52f8c8af9ed2f42274a07353b484cb767fb27
+  subpackages:
+  - middleware
+- name: github.com/mattn/go-colorable
+  version: d228849504861217f796da67fae4f6e347643f15
+- name: github.com/mattn/go-isatty
+  version: 66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8
+- name: github.com/pressly/chi
+  version: fc6251083a856d5093f4b96d71252c5e56d9c1b5
+- name: github.com/technoweenie/multipartstreamer
+  version: a90a01d73ae432e2611d178c18367fbaa13e0154
+- name: golang.org/x/sys
+  version: b699b7032584f0953262cb2788a0ca19bb494703
+  subpackages:
+  - unix
+- name: gopkg.in/inconshreveable/log15.v2
+  version: b105bd37f74e5d9dc7b6ad7806715c7a2b83fd3f
+  subpackages:
+  - stack
+  - term
+testImports: []

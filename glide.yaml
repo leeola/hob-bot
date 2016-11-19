@@ -1,0 +1,12 @@
+package: github.com/leeola/hob-bot
+import:
+- package: github.com/BurntSushi/toml
+- package: github.com/inconshreveable/log15
+- package: github.com/pressly/chi
+  version: v2.0.0rc1
+- package: github.com/leeola/hob
+  subpackages:
+  - middleware
+- package: github.com/go-telegram-bot-api/telegram-bot-api
+- package: github.com/technoweenie/multipartstreamer
+- package: github.com/leeola/errors
