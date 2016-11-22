@@ -1,5 +1,5 @@
 hash: 3a51a8290cabfcd67717900b86c665c6c081363759c1a100b0ba45c3bf4dad4e
-updated: 2016-11-20T08:14:02.942992225-08:00
+updated: 2016-11-21T19:12:36.529270909-08:00
 imports:
 - name: github.com/BurntSushi/toml
   version: 99064174e013895bbd9b025c31100bd1d9b590ca
@@ -10,7 +10,7 @@ imports:
 - name: github.com/leeola/errors
   version: ea7651e75272105fcbf3191979adc5def2d5ab8a
 - name: github.com/leeola/hob
-  version: ddd52f8c8af9ed2f42274a07353b484cb767fb27
+  version: bbd86b63083710f0b50516d6f4358356dd29a0f2
   subpackages:
   - middleware
 - name: github.com/mattn/go-colorable
