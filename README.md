@@ -12,3 +12,7 @@ hob-bot aims to be simple and low of features.
 hob-bot works by simply translating and then proxying chat commands into
 Hob events. It has a basic webhook API for communicating action results to
 slack
+
+## License
+
+MIT
